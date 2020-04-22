@@ -1,6 +1,7 @@
 # cfrtl.vim
 **C**opy **F**rom **R**emote **T**o **L**ocal  
-Vim copy from ssh remote to loacl clipboard. It work with OSC52/PASTE64.
+Vim copy from ssh remote to loacl clipboard. It work with OSC52/PASTE64.  
+This work well on [iTerm2](https://www.iterm2.com) terminal.
 
 ## Installation
 Vim 8+ packages  
